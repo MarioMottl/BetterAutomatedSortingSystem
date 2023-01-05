@@ -1,0 +1,4 @@
+name: BetterAutomatedSortingSystem
+version: '${project.version}'
+main: betterautomatedsortingsystem.betterautomatedsortingsystem.BetterAutomatedSortingSystem
+api-version: 1.19
